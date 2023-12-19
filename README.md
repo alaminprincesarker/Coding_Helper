@@ -5,6 +5,7 @@
 #define Fast ios_base::sync_with_stdio(false);cin.tie(NULL);
 #define IO freopen("input.txt", "r", stdin);freopen("output.txt", "w", stdout);
 #define debug(x) cerr << #x << " = " << x << endl;
+#define debug2(x, y) cerr << "("<< #x << ", " << #y << ")  =  (" << x << ", " << y << ")"<< endl;
 using namespace std;
 void solve(){
 
